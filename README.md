@@ -1,2 +1,2 @@
 # testing
-Used for testing synchronization between Eclipse/egit and github
+Used for testing synchronization between Eclipse/egit and github.
